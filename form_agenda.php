@@ -40,6 +40,20 @@
 										<br>
 										<br>
 										<br>
+										<h3>
+		                    Hari dan tanggal Agenda berakhir :
+		                </h3>
+											<input type="date" class="datepicker">
+											<br>
+											<br>
+											<br>
+										<h3>
+			                  Waktu Agenda berakhir:
+			              </h3>
+											<input type="time" class="datepicker">
+											<br>
+											<br>
+											<br>
                 <a class="btn btn-default" href="">Submit</a>
             </form>
 
