@@ -19,6 +19,7 @@
                     <th>No</th>
                     <th>Nama agenda</th>
                     <th>Waktu pelaksanaan</th>
+                    <th>Waktu berakhir</th>
                     <th>Waktu posting</th>
                     <th style="text-align: center;">Ubah</th>
                   </tr>
@@ -28,6 +29,7 @@
                     <td>1</td>
                     <td>Lomba badminton</td>
                     <td>5 Mei 2017, 13.00</td>
+                    <td>5 Mei 2017, 15.00</td>
                     <td>1 Mei 2017, 13.20</td>
                     <td><a href="detail_agenda.php" class="btn btn-default">Lihat detail</a>
                     <a href="" class="btn btn-default">Hapus</a>
@@ -37,6 +39,7 @@
                     <td>2</td>
                     <td>Senam pagi</td>
                     <td>5 Mei 2017, 6.00</td>
+                    <td>5 Mei 2017, 9.00</td>
                     <td>2 Mei 2017, 13.00</td>
                     <td><a href="" class="btn btn-default">Lihat detail</a>
                     <a href="" class="btn btn-default">Hapus</a>
@@ -45,7 +48,8 @@
                   <tr>
                     <td>3</td>
                     <td>Bersih desa</td>
-                    <td>10 Mei 2017, 9.00</td>
+                    <td>10 Mei 2017, 6.00</td>
+                    <td>10 Mei 2017, 8.00</td>
                     <td>2 Mei 2017, 13.27</td>
                     <td><a href="" class="btn btn-default">Lihat detail</a>
                     <a href="" class="btn btn-default">Hapus</a>
@@ -55,6 +59,7 @@
                     <td>4</td>
                     <td>Futsal antar RT</td>
                     <td>25 Mei 2017, 16.00</td>
+                    <td>25 Mei 2017, 18.00</td>
                     <td>4 Mei 2017, 13.00</td>
                     <td><a href="" class="btn btn-default">Lihat detail</a>
                     <a href="" class="btn btn-default">Hapus</a>
