@@ -17,6 +17,7 @@
           <thead>
                   <tr>
                     <th>No</th>
+                    <th>No Surat</th>
                     <th>Nama pengirim</th>
                     <th>Perihal</th>
                     <th>Waktu posting</th>
@@ -26,6 +27,7 @@
                 <tbody>
                   <tr>
                     <td>1</td>
+                    <td>12/03/2017</td>
                     <td>Ilyas B</td>
                     <td>Hackathon</td>
                     <td>1 Mei 2017, 13.20</td>
@@ -35,6 +37,7 @@
                   </tr>
                   <tr>
                     <td>2</td>
+                    <td>13/03/2017</td>
                     <td>R.Ay. Noormala Nadya</td>
                     <td>Indie Game</td>
                     <td>2 Mei 2017, 13.00</td>
@@ -44,6 +47,7 @@
                   </tr>
                   <tr>
                     <td>3</td>
+                    <td>14/03/2017</td>
                     <td>A. Galang Anugerah</td>
                     <td>TCode</td>
                     <td>2 Mei 2017, 13.27</td>
@@ -53,6 +57,7 @@
                   </tr>
                   <tr>
                     <td>4</td>
+                    <td>15/03/2017</td>
                     <td>Kukuh Rilo</td>
                     <td>Capture Flag</td>
                     <td>4 Mei 2017, 13.00</td>

@@ -12,6 +12,13 @@
             </div>
             <hr>
             <form>
+								<h3>
+										Nomor surat :
+								</h3>
+								<input type="text" name="nomer">
+								<br>
+								<br>
+								<br>
 									<h3>
 	                    Perihal :
 	                </h3>
