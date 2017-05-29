@@ -20,16 +20,17 @@
                     <th>Dibuat oleh</th>
                     <th>Untuk bulan / tahun<th>
                     <th>Waktu posting</th>
+                    <th>Saldo terkini</th>
                     <th style="text-align: center;">Ubah</th>
                   </tr>
                 </thead>
                 <tbody>
-                  <tr>
+                  <tr>d
                     <td>1</td>
                     <td>R. Ay. Noormala</td>
                     <td>Januari / 2017</td>
                     <td>1 Mei 2017, 13.20</td>
-                    <td><a href="detail_prestasi.php" class="btn btn-default">Lihat detail</a>
+                    <td>578,000</td>
                     <a href="" class="btn btn-default">Hapus</a>
                     </td>
                   </tr>
@@ -38,7 +39,7 @@
                     <td>Jeffry Nasri</td>
                     <td>Februari / 2017</td>
                     <td>2 Mei 2017, 13.00</td>
-                    <td><a href="" class="btn btn-default">Lihat detail</a>
+                    <td>1,060,500 </td>
                     <a href="" class="btn btn-default">Hapus</a>
                     </td>
                   </tr>
@@ -47,7 +48,7 @@
                     <td>R. Ay. Noormala Nadya</td>
                     <td>Maret / 2017</td>
                     <td>2 Mei 2017, 13.27</td>
-                    <td><a href="" class="btn btn-default">Lihat detail</a>
+                    <td>702,000</td>
                     <a href="" class="btn btn-default">Hapus</a>
                     </td>
                   </tr>
@@ -56,7 +57,7 @@
                     <td>Jeffry Nasri</td>
                     <td>April</td>
                     <td>4 Mei 2017, 13.00</td>
-                    <td><a href="" class="btn btn-default">Lihat detail</a>
+                    <td>890,000</td>
                     <a href="" class="btn btn-default">Hapus</a>
                     </td>
                   </tr>
