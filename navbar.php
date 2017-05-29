@@ -13,7 +13,7 @@
                     <a class="nav-link">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item navbar-toggler-right">
-                    <a href="login.php" class="nav-link">Logout</a>
+                    <a href="login.php" class="nav-link">Login</a>
                 </li>
             </ul>
         </div>
