@@ -1,15 +1,14 @@
+<?php
+  include_once 'header.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
 
 <body>
 
-    <header>
-       <?php    
-            include_once 'navbar.php';
-        ?>
-    </header>
-
-
+  <?php
+       include_once 'navbar.php';
+   ?>
 
     <main class="pt-6">
         <div class="container">
@@ -62,11 +61,11 @@
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <!-- MDB core JavaScript -->
     <script type="text/javascript" src="js/mdb.min.js"></script>
-    
+
     <?php
         include "footer.php";
     ?>
-    
+
 </body>
 
 

@@ -31,7 +31,7 @@
                     <td>Ilyas B</td>
                     <td>Hackathon</td>
                     <td>1 Mei 2017, 13.20</td>
-                    <td><a href="detail_prestasi.php" class="btn btn-default">Lihat detail</a>
+                    <td><a href="detail_surat.php" class="btn btn-default">Lihat detail</a>
                     <a href="" class="btn btn-default">Hapus</a>
                     </td>
                   </tr>
